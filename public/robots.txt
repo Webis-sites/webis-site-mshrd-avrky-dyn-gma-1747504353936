@@ -1,0 +1,7 @@
+
+    # robots.txt for משרד עורכי דין גמא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://משרד-עורכי-דין-גמא.com/sitemap.xml
