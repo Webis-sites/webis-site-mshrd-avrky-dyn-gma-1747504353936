@@ -9,7 +9,13 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #4ECDC4;
       --secondary-color: #FF6B6B;
-    }
+    
+  --background-color: #F7F7F7;
+  --text-color: #333333;
+  --font-family: var(--font-rubik), sans-serif;
+  --border-radius: 0.5rem;
+  --transition-speed: 0.3s;
+}
 
     html {
       scroll-behavior: smooth;
