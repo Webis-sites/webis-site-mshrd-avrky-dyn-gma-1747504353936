@@ -25,6 +25,9 @@
 
   --glass-bg: rgba(255, 255, 255, 0.3);
   --glass-border: rgba(255, 255, 255, 0.2);
+
+  --background-gradient-from: rgba(78, 205, 196, 0.2);
+  --background-gradient-to: rgba(255, 107, 107, 0.2);
 }
 
     html {
