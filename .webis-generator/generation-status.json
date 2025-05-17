@@ -1,8 +1,11 @@
 {
-  "projectName": "משרד-עורכי-דין-גמא-4353",
-  "businessName": "משרד עורכי דין גמא",
-  "created": "2025-05-17T17:52:34.014Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-05-17T17:52:58.210Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-mshrd-avrky-dyn-gma-1747504353936"
 }
