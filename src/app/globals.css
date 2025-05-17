@@ -19,6 +19,9 @@
   --glass-blur: 8px;
   --glass-opacity: 0.1;
   --animation-duration: 0.6s;
+
+  --font-family-primary: 'Heebo', 'Arial', sans-serif;
+  --border-radius-lg: 1rem;
 }
 
     html {
