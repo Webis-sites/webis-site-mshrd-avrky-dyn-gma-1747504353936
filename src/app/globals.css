@@ -28,6 +28,8 @@
 
   --background-gradient-from: rgba(78, 205, 196, 0.2);
   --background-gradient-to: rgba(255, 107, 107, 0.2);
+
+  --font-primary: 'Heebo', 'Rubik', sans-serif;
 }
 
     html {
