@@ -10,6 +10,7 @@ import TestimonialsSection from '@/components/TestimonialsSection';
 import ContactSection from '@/components/ContactSection';
 import Footer from '@/components/Footer';
 import Button from '@/components/Button';
+import Card from '@/components/Card';
 
 export default function HomePage() {
   return (
@@ -26,6 +27,7 @@ export default function HomePage() {
         <ContactSection />
         <Footer />
         <Button />
+        <Card />
       </main>
     </>
   );
