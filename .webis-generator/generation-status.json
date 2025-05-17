@@ -1,11 +1,90 @@
 {
-  "timestamp": "2025-05-17T17:52:58.210Z",
+  "timestamp": "2025-05-17T17:53:47.987Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 13,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout component with RTL support, metadata, and global styles for the law firm website"
+    },
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL-optimized navigation bar for a Hebrew law firm with logo, navigation links to page sections, and contact button"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Bold, RTL hero section for a Hebrew law firm with headline, subheadline, and call-to-action"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "RTL-optimized about section highlighting the law firm's expertise, experience and values"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Comprehensive RTL services section showcasing the law firm's legal expertise areas"
+    },
+    {
+      "name": "TeamSection",
+      "type": "team",
+      "status": "pending",
+      "description": "RTL-optimized team section showcasing the law firm's attorneys with their expertise and credentials"
+    },
+    {
+      "name": "PortfolioSection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "RTL-optimized case studies section showcasing the law firm's successful legal cases"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "RTL-optimized testimonials carousel showcasing client feedback for the law firm"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "RTL-optimized contact section with form, map, and contact details for the law firm"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "RTL-optimized footer with copyright, links, and social media for the law firm"
+    },
+    {
+      "name": "Button",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable RTL-friendly button component with variants for the law firm website"
+    },
+    {
+      "name": "Card",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable RTL-friendly card component for displaying content on the law firm website"
+    },
+    {
+      "name": "SectionHeader",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable RTL-friendly section header component with title and subtitle for the law firm website"
+    }
+  ],
   "repoName": "webis-site-mshrd-avrky-dyn-gma-1747504353936"
 }
