@@ -25,17 +25,10 @@ export default function RootLayout({
       <body className={inter.className}>
         <div className="flex min-h-screen flex-col">
           {/* Navbar will be inserted here */}
-          <SectionHeader />
           <Navbar />
 
           {children}
 
-
-          <footer className="py-6 bg-gray-100 dark:bg-gray-800 mt-10">
-            <div className="container mx-auto px-4 text-center text-gray-500 text-sm">
-              &copy; 2025 משרד עורכי דין גמא. webis
-            </div>
-          </footer>
         </div>
       </body>
     </html>
