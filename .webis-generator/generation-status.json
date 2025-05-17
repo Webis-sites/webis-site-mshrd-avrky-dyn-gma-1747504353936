@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-05-17T17:57:17.673Z",
+  "timestamp": "2025-05-17T17:58:16.369Z",
   "status": {
     "totalComponents": 13,
-    "completedComponents": 5,
+    "completedComponents": 6,
     "failedComponents": 0,
-    "progress": 38
+    "progress": 46
   },
   "components": [
     {
@@ -40,7 +40,7 @@
     {
       "name": "TeamSection",
       "type": "team",
-      "status": "pending",
+      "status": "completed",
       "description": "RTL-optimized team section showcasing the law firm's attorneys with their expertise and credentials"
     },
     {
